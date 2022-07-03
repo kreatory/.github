@@ -1,2 +1,2 @@
 # .github
-Storyt README
+Kreatory README
